@@ -1,0 +1,7 @@
+{
+	"packageUrl" : "https://github.com/HimiGame/himigame/blob/master",
+	"remoteManifestUrl" : "https://github.com/HimiGame/himigame/blob/master/server_dlr.manifest",
+	"remoteVersionUrl" : "https://github.com/HimiGame/himigame/blob/master/server_dlr.manifest",
+	"version" : "1.0.0",
+	"engineVersion" : "3.0 beta"
+}
