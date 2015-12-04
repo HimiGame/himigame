@@ -7,7 +7,7 @@
 
 	"assets" : {
 		"alllua.zip" : {
-			"md5" : "..."
+			"md5" : "...",
 			"compressed" : true
 		},
 		"res/texture.png" : {
