@@ -17,7 +17,7 @@
 			"md5" : "..."
 		},
 		"test.zip" : {
-			"md5" : "..."
+			"md5" : "...",
 			"compressed" : true
 		}
 	},
