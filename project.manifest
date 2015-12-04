@@ -19,7 +19,7 @@
 	},
     
     "searchPaths" : [
-    	"res/"
+    	"res/",
     	"src/"
     ]
 }
