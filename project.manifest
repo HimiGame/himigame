@@ -2,28 +2,32 @@
 	"packageUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master",
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master/project.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master/version.manifest",
-	"version" : "1.3.2",
-	"engineVersion" : "3.0 beta",
-
+	"version" : "1.1.1",
+	"engineVersion" : "3.0 beta"
 	"assets" : {
-		"alllua.zip" : {
-			"md5" : "...",
-			"compressed" : true
+		"main.luac" : {
+			"md5" : "870d8f5c74d1bb95b6c8d3ec089030b2"
 		},
-		"res/texture.png" : {
-			"md5" : "12321"
+		"caustics.png" : {
+			"md5" : "8c9259592f4027ff269419b27f75a312"
 		},
-		"src/tt.lua" : {
-			"md5" : "..."
+		"config.luac" : {
+			"md5" : "b028a8c403b78cfe54d6567d5ddd8748"
 		},
-		"test.zip" : {
-			"md5" : "...",
-			"compressed" : true
+		"MyApp.luac" : {
+			"md5" : "790484486c6febe8699f6af0bf6797f6"
+		},
+		"HelloWorld.png" : {
+			"md5" : "55ea4e952bf080f300379ec26723598b"
+		},
+		"tortoise.png" : {
+			"md5" : "efa1ec038eca2a67035e4919dac5e93a"
+		},
+		"Sea.jpg" : {
+			"md5" : "6b15f19c0361034bc75159aa48144b22"
 		}
 	},
-    
-    "searchPaths" : [
-    	"src/",
-    	"res/"
-    ]
+
+	"searchPaths" : [
+	]
 }
