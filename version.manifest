@@ -1,0 +1,7 @@
+{
+	"packageUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master/version.manifest",
+	"version" : "2.1.4",
+	"engineVersion" : "3.0 beta"
+}
