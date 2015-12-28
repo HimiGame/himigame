@@ -1,15 +1,13 @@
 {
-	"packageUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master",
-	"remoteManifestUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master/project.manifest",
-	"remoteVersionUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master/version.manifest",
-	"version" : "2.1.4",
+    "packageUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master",
+    "remoteManifestUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master/project.manifest",
+    "remoteVersionUrl" : "https://raw.githubusercontent.com/HimiGame/himigame/master/version.manifest",
+	"version" : "2.1.5",
 	"engineVersion" : "3.0 beta",
 	"assets" : {
-		"UpdateTest.luac" : {
-			"md5" : "e571c9359708b34438fe88261f00b54b"
-		},
-		"psb.png" : {
-			"md5" : "f16d5225993b8a3abbb3c0ea70455e3d"
+		"updateRes.zip" : {
+			"md5" : "1dee50908315238049c52c12f49f963c",
+			"compressed" : true
 		}
 	},
 
